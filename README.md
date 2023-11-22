@@ -10,8 +10,8 @@ Dataset I am using as of now https://www.kaggle.com/datasets/ktaebum/anime-sketc
 Steps for implementing this
 
 - [x] Discriminator Model
-- [ ] UNET in the paper and Generator Model
-- [ ] Dataset Loading
-- [ ] Training ( Most Boring Task )
+- [x] UNET in the paper and Generator Model
+- [x] Dataset Loading
+- [x] Training ( Most Boring Task )
 - [ ] Testing
 - [ ] Paper Implemented 🥳
