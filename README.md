@@ -13,5 +13,5 @@ Steps for implementing this
 - [x] UNET in the paper and Generator Model
 - [x] Dataset Loading
 - [x] Training ( Most Boring Task )
-- [ ] Testing
-- [ ] Paper Implemented 🥳
+- [x] Testing
+- [x] Paper Implemented 🥳
